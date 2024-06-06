@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![tarolling's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tarolling&theme=yeblu#gh-dark-mode-only)](https://github.com/tarolling/github-readme-stats#gh-dark-mode-only)
+[![tarolling's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tarolling&theme=ambient_gradient#gh-light-mode-only)](https://github.com/tarolling/github-readme-stats#gh-light-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarolling&layout=pie&theme=yeblu)
+
 <!--
 **tarolling/tarolling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
